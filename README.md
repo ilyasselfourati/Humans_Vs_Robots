@@ -43,27 +43,6 @@ Pour toute question ou suggestion, veuillez utiliser la section des issues du d�
 Merci de votre intérêt pour ce projet de classification !
 
 </div>
-
-
-
-<div style="display: flex;">
-
-  <!-- Colonne des étudiants -->
-  <div style="flex: 1; padding-right: 20px;">
-    <b>Etudiants :</b>
-    <ul>
-      <li>Zineb Aissaoui</li>
-      <li>Nouhaila Amraoui</li>
-      <li>Mohamed Taha Boulaghla</li>
-      <li>Ilyass El Fourati</li>
-      <li>Safae El Omari</li>
-      <li>Meryeme Essalmi</li>
-    </ul>
-  </div>
-
-  <!-- Colonne des professeurs -->
-  <div style="flex: 1;">
-    <b>Professeur :</b>
     <ul>
       <li>Redha Moulla</li>
     </ul>
