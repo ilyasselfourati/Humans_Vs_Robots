@@ -35,17 +35,3 @@ Le dépôt inclut également un rapport détaillé qui fournit une vue d'ensembl
 ## 🚨 Remarques Importantes
 
 - **Données Non Incluses** : Les fichiers de données (`train.csv`, `train_smote.csv`, `test.csv`) ne sont pas inclus dans le dépôt en raison de leur taille. Vous devrez fournir ces fichiers séparément.
-
-## 💬 Questions et Contributions
-
-Pour toute question ou suggestion, veuillez utiliser la section des issues du dépôt. Les contributions sont également les bienvenues pour améliorer le projet.
-
-Merci de votre intérêt pour ce projet de classification !
-
-</div>
-    <ul>
-      <li>Redha Moulla</li>
-    </ul>
-  </div>
-
-</div>
